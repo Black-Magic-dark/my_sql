@@ -1,0 +1,1 @@
+select * from students where name not between 30 and 45;

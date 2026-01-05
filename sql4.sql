@@ -1,0 +1,1 @@
+SELECT id,name as "stu_name",email from users
